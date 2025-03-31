@@ -1,0 +1,28 @@
+/* body {
+    background: linear-gradient(180deg, #DEF0A2, #81A4BC);
+    height: 100vh; /* Ensures it covers the full viewport 
+    margin: 0;
+.card {
+    background: linear-gradient(180deg, #9DBDD8, #D06E6E);
+    height: 80vh; /* Ensures it covers the full viewport 
+    margin: 0;
+    width: 120vh; /* Removes default margin 
+margin-top: 15%; 
+border: 2px solid black;
+border-radius: 3%;
+
+}
+
+.container{
+    margin-top: 5%;
+    height: 30%;
+    width: 30%;
+    margin-left: 23%;
+    
+}
+.card_container{
+    
+    border: 2px solid black;
+    height: 30%;
+    width: 30%;
+} */
